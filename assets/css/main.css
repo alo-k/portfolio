@@ -2445,8 +2445,8 @@ input, select, textarea {
 	}
 /* Profile Image Circle Fix */
 	.profile-pic {
-	width: 350px;
-	height: 350px;
+	width: 300px;
+	height: 300px;
 	display: inline-block;
 	border-radius: 50%;
 	overflow: hidden;
